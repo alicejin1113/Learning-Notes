@@ -1,4 +1,0 @@
-Two kinds of recommendations are commonly used:
-
-home page recommendations
-related item recommendations
